@@ -1,0 +1,19 @@
+# ============================================
+# MCPサーバーの設定ファイル
+# name: Cloudflare Workersでの識別名（変更してください）
+# ============================================
+name = "your-mcp-server"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[observability]
+enabled = true
+
+[[durable_objects.bindings]]
+name = "MyMcpAgent"
+class_name = "MyMcpAgent"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["MyMcpAgent"]
