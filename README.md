@@ -19,6 +19,16 @@ This template helps you deploy an MCP server to Cloudflare Workers as quickly as
 - ✅ Cloudflare Workers Logs によるクエリログ
 - ✅ 日本語＋英語セットアップガイド
 
+## 詳細ガイド / Complete Guide
+
+セットアップの詳細手順・詰まりポイント集・Smithery登録手順をまとめた完全ガイドを販売中です。
+
+🛒 **[完全ガイドを購入する（$29）](https://tsukuras.gumroad.com/l/mcp-template)**
+
+Purchase the complete setup guide with detailed instructions, troubleshooting tips, and Smithery registration steps.
+
+---
+
 ## クイックスタート / Quick Start
 
 ### 1. テンプレートを使用 / Use this template
