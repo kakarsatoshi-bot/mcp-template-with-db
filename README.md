@@ -27,6 +27,8 @@ This template helps you deploy an MCP server to Cloudflare Workers as quickly as
 
 Purchase the complete setup guide with detailed instructions, troubleshooting tips, and Smithery registration steps.
 
+👉 [Get the complete guide ($29)](https://tsukuras.gumroad.com/l/mcp-template)
+
 ---
 
 ## クイックスタート / Quick Start
